@@ -22,9 +22,9 @@ Bem-vindo ao perfil da **Pedra Branca Escavações**! Somos especialistas em esc
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Alletog&show_icons=true&theme=dark)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alletog&layout=compact&theme=dark)
 
 ---
 
