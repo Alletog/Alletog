@@ -29,7 +29,7 @@ Bem-vindo ao perfil da **Pedra Branca Escavações**! Somos especialistas em esc
 ---
 
 ### 📬 Contato
-📧 E-mail: Alexandretognato@hotmail.com
+📧 E-mail: Alexandretognato@hotmail.com      
 🔗 LinkedIn: 
 
 Vamos construir algo incrível juntos! 🚀
