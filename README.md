@@ -1,7 +1,4 @@
-## 🚜 Pedra Branca Escavações
-
-Bem-vindo ao perfil da **Pedra Branca Escavações**! Somos especialistas em escavação e infraestrutura, combinando tecnologia e inovação para oferecer os melhores serviços. Aqui você encontrará projetos, automações e ferramentas voltadas para a área de DevOps e administração de sistemas.
-
+## Gott
 ---
 
 ### 💻 Sobre Mim
